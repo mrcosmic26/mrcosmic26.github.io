@@ -174,10 +174,11 @@ h1 {
 
 /* about text */
 .lord {
+  align-items: center
   position: relative;
   display: flex;
   font-family: monospace;
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 143px;
   margin-left: -18%;
   padding: 35% 10%;
@@ -287,7 +288,7 @@ color: rgb(19, 0, 0)
 @media only screen and (max-width: 1050px) {
   .lord {
     left: -11%;
-    top: -15%;
+    top: -14%;
   }
 }
 
